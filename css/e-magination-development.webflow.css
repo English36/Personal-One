@@ -444,6 +444,8 @@ figcaption {
 .intro-wrap {
   margin-top: 100px;
   margin-bottom: 140px;
+  color: ;
+  background-image: url(../images/IMG_0994.jpeg);
 }
 
 .name-text {
@@ -890,6 +892,7 @@ figcaption {
   width: 70%;
   margin: 140px auto 200px;
   text-align: center;
+  background-color: wheat;
 }
 
 .email-link {
