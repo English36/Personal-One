@@ -555,17 +555,17 @@ figcaption {
 }
 
 .work-image.cc-work-2 {
-  background-image: url('../images/Order_Menu1_macbookpro15_front.png');
+  background-image: url('../images/PP-D1.png');
   background-size: cover;
 }
 
 .work-image.cc-work-4 {
-  background-image: url('../images/portfolio-3---wide.svg');
+  background-image: url('../images/Shopify2-D.png');
   background-size: cover;
 }
 
 .work-image.cc-work-3 {
-  background-image: url('../images/portfolio-4---wide.svg');
+  background-image: url('../images/Domain1-p.png');
   background-size: cover;
 }
 
@@ -575,10 +575,12 @@ figcaption {
   line-height: 34px;
   font-weight: 400;
   text-decoration: none;
+  
 }
 
 .project-name-link:hover {
   opacity: 0.8;
+  background-color: orange;
 }
 
 .project-name-link:active {
