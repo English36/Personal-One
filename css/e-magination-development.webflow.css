@@ -16,6 +16,7 @@ body {
   font-size: 16px;
   line-height: 28px;
   font-weight: 400;
+  background-color: rgb(222,226,228);
 }
 
 h1 {
@@ -444,8 +445,8 @@ figcaption {
 .intro-wrap {
   margin-top: 100px;
   margin-bottom: 140px;
-  color: ;
-  background-image: url(../images/IMG_0994.jpeg);
+  color: white;
+  background-image: url(../images/IMG_0406.jpeg);
 }
 
 .name-text {
