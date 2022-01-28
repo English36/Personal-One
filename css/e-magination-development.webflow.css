@@ -757,6 +757,7 @@ figcaption {
   grid-template-columns: 1fr 2fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
+  background-color: white;
 }
 
 .hi-there-heading {
@@ -1091,6 +1092,7 @@ figcaption {
 
   .carrer-headline-wrap {
     width: auto;
+    
   }
 
   .work-image {
@@ -1119,12 +1121,14 @@ figcaption {
     -ms-grid-rows: auto 50px auto;
     grid-template-rows: auto auto;
     text-align: center;
+    
   }
 
   .about-head-text-wrap {
     width: 80%;
     margin-right: auto;
     margin-left: auto;
+    
   }
 
   .service-name-text {
